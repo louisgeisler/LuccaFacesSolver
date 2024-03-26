@@ -12,3 +12,11 @@ JS code solving the [Lucca Faces Game](https://support.lucca.fr/hc/en-us/article
 3. Open the Developper Console
 4. Copy-Past [this code](./LuccaFacesSolver.js)
 5. It should start of its own, if not, then there may have been some updates...
+
+# Technical
+
+For a more technical explatation, the small JS code will learn to remember all your teammates after few automatic try and retry. To be fast, the script didn't associate the picture to a name, but just its metadata (size, image format) assuming there will be no collisions 🤞
+
+# Support
+
+<a href="https://www.buymeacoffee.com/louisgeisler"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot chocolat&emoji=&slug=louisgeisler&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
