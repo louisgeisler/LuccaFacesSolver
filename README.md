@@ -2,8 +2,6 @@
 
 JS code solving the [Lucca Faces Game](https://support.lucca.fr/hc/en-us/articles/360016121971--Lucca-Faces)
 
-# Video
-
 # Get Started
 1. Start the Lucca Face Game
 2. Wait for the "Go" page
