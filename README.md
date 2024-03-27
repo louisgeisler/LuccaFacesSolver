@@ -4,8 +4,6 @@ JS code solving the [Lucca Faces Game](https://support.lucca.fr/hc/en-us/article
 
 # Video
 
-[LuccaFacesSolver4.webm](https://github.com/louisgeisler/LuccaFacesSolver/assets/82355033/bd8844e6-6fa6-4607-82bd-a00f4108a552)
-
 # Get Started
 1. Start the Lucca Face Game
 2. Wait for the "Go" page
