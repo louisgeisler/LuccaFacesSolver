@@ -175,7 +175,7 @@
         let restart_button;
         do {
             await sleep(1000);
-            restart_button = document.querySelector('.tryagain');
+            restart_button = document.querySelector('.results-card');
         } while(!restart_button);
         console.table(
             Object.entries(imgId2Names).map(([image_id, name]) => {
@@ -189,7 +189,7 @@
     }
 
 })({
-    censuring_images: true,
-    censuring_names: true,
+    censuring_images: false,
+    censuring_names: false,
     speedup: false
 })
